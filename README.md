@@ -7,7 +7,7 @@ Olá, meu nome é Gabe Communello e sou atualmente uma pessoa estagiária da ár
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISENAI.
 
-## Minha Paixão
+## Interesses Especiais
 
 Uma das minhas maiores paixões é a astronomia e a ciência em geral. Adoro aprender sobre o cosmos e acompanhar os avanços na área da ciência.
 
