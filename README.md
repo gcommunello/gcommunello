@@ -3,9 +3,7 @@
 
 ## Sobre Mim
 
-Olá, meu nome é Gabe Communello e sou atualmente uma pessoa estagiária da área de suporte técnico em uma empresa de softwares empresariais. Além disso, também tenho experiência na área de documentação dentro da mesma empresa. 
-
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISENAI.
+Olá, meu nome é Gabe Communello e atualmente sou estudante de análise e desenvolvimento de sistemas e trabalho como analista de sustentação de produto com experiência em suporte técnico e costumer experience.
 
 ## Interesses Especiais
 
