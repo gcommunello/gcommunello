@@ -3,7 +3,9 @@
 
 ## Sobre Mim
 
-Olá, meu nome é Gabe Communello e atualmente sou estudante de análise e desenvolvimento de sistemas e trabalho como analista de sustentação de produto com experiência em suporte técnico e costumer experience.
+Olá, eu sou Gabe!
+
+Atualmente sou estudante de análise e desenvolvimento de sistemas e trabalho como analista de sustentação de produto.
 
 ## Interesses Especiais
 
