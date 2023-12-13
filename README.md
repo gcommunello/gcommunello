@@ -5,20 +5,17 @@
 
 Olá, eu sou Gabe!
 
-Atualmente sou estudante de análise e desenvolvimento de sistemas e trabalho como analista de sustentação de produto.
+💻 Eu sou um desenvolvedor Back-End | Android
 
-## Interesses Especiais
+🎓 Eu estudo Análise e Desenvolvimento de Sistemas
 
-Uma das minhas maiores paixões é a astronomia e a ciência em geral. Adoro aprender sobre o cosmos e acompanhar os avanços na área da ciência.
+👩‍💻 Atualmente eu trabalho como Analista de Sustentação
+
+🔎 Também sou curioso sobre Algoritmo e Estrutura de Dados, Banco de Dados, IA, Automações e Segurança
 
 ## Meus Projetos
 
-Nesta conta, você encontrará uma variedade de projetos que refletem minha jornada como estudante e entusiasta da tecnologia. Alguns dos tópicos que abordo incluem:
-
-- **Windows Forms:** Projetos em Windows Forms que desenvolvi como parte do meu aprendizado em Análise e Desenvolvimento de Sistemas.
-- **CSS:** Experimentos e projetos relacionados a estilização de páginas web usando CSS.
-- **HTML:** Códigos HTML que criei para construir páginas web interativas.
-- **JavaScript:** Pequenos projetos em JavaScript para adicionar funcionalidades dinâmicas às minhas páginas web.
+Nesta conta, você encontrará uma variedade de projetos que refletem minha jornada como estudante e entusiasta da tecnologia. 
 
 Sinta-se à vontade para explorar meus projetos e colaborar, se desejar. Adoro receber feedback e trabalhar em equipe para melhorar e expandir meu conhecimento.
 
